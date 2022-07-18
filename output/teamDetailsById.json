@@ -1,0 +1,105 @@
+{
+  "teamName": "India National Cricket Team",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Domestic season high on July 21 Apex Council agenda",
+      "miniContent": "The 2021-22 Ranji Trophy season was completed successfully either side of IPL 2022",
+      "thumbnail": "https://www.cricbuzz.com/a/img/v1/595x396/i1/c239462/the-apex-council-meeting-will.jpg",
+      "createdAt": "Mon Jul 18 2022",
+      "authorName": "Jayanth",
+      "fullContent": "http://localhost:3000/api/storyDetails/1"
+    },
+    {
+      "id": 2,
+      "title": "Hardik pleased to 'fill the big shoes' of Bumrah",
+      "miniContent": "With Bumrah not playing, Hardik had to step up with the ball and he showed his ability to adjust to different conditions with vital wickets",
+      "thumbnail": "https://www.cricbuzz.com/a/img/v1/595x396/i1/c239444/on-a-track-that-offered-some-b.jpg",
+      "createdAt": "Mon Jul 18 2022",
+      "authorName": "Vijay Tagore",
+      "fullContent": "http://localhost:3000/api/storyDetails/2"
+    },
+    {
+      "id": 3,
+      "title": "Pant, Hardik set new template for pressure situations",
+      "miniContent": "It was India's first century partnership against England in England for the fifth wicket in nearly 8 years, effectively sealing the chase",
+      "thumbnail": "https://www.cricbuzz.com/a/img/v1/980x654/i1/c239442/hardik-and-pant-with-their-ma.jpg",
+      "createdAt": "Mon Jul 18 2022",
+      "authorName": "Jayanth",
+      "fullContent": "http://localhost:3000/api/storyDetails/3"
+    },
+    {
+      "id": 4,
+      "title": "Hardik, Pant put on a show as India clinch series",
+      "miniContent": "While Hardik shone with both bat and ball, Pant hit his maiden ODI century in India's successful chase",
+      "thumbnail": "https://www.cricbuzz.com/a/img/v1/595x396/i1/c239380/rishabh-pant-scored-his-maiden.jpg",
+      "createdAt": "Mon Jul 18 2022",
+      "authorName": "Vijay Tagore",
+      "fullContent": "http://localhost:3000/api/storyDetails/4"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title": "England v India, 3rd ODI: Full Highlights",
+      "content": "From Hardik's all-round show to Rishabh Pant's magnificent knock. Watch all the highlights from the series decider here",
+      "createdAt": "Mon Jul 18 2022",
+      "thumbnail": "https://www.cricbuzz.com/a/img/v1/205x152/i1/c239405/cms-img.jpg",
+      "videoLink": "https://www.cricbuzz.com/cricket-videos/56766/england-v-india-3rd-odi-full-highlights",
+      "isPremium": true
+    },
+    {
+      "id": 2,
+      "title": "Pant's match-winning ton a template of how one should finish games: Zaheer Khan",
+      "content": "Rishabh Pant & Hardik Pandya's 133-run stand helped India chase down 260 in style & clinch the 3rd ODI. Zaheer Khan & Joy Bhattacharjya hail the duo, on Cricbuzz Live",
+      "createdAt": "Mon Jul 18 2022",
+      "thumbnail": "https://www.cricbuzz.com/a/img/v1/205x152/i1/c239433/cms-img.jpg",
+      "videoLink": "https://www.cricbuzz.com/cricket-videos/56775/pants-match-winning-ton-a-template-of-how-one-should-finish-games-zaheer-khan",
+      "isPremium": false
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "title": "England vs India, 3rd ODI",
+      "thumbnail": "https://www.cricbuzz.com/a/img/v1/300x170/i1/c239296/england-vs-india-3rd-odi.jpg",
+      "createdAt": "Mon Jul 18 2022",
+      "teamId": 1,
+      "allPhotos": "http://localhost:3000/api/albumDetails/1"
+    },
+    {
+      "id": 2,
+      "title": "England vs India, 2nd ODI, Lord's",
+      "thumbnail": "https://www.cricbuzz.com/a/img/v1/300x170/i1/c239004/england-vs-india-2nd-odi-lor.jpg",
+      "createdAt": "Mon Jul 18 2022",
+      "teamId": 1,
+      "allPhotos": "http://localhost:3000/api/albumDetails/2"
+    }
+  ],
+  "matches": [
+    {
+      "id": 1,
+      "title": "1st ODI",
+      "venue": "Port of Spain, Trinidad ",
+      "date": "Fri Jul 22 2022 1:30:10 PM",
+      "team1": "WI",
+      "team2": "IND"
+    },
+    {
+      "id": 2,
+      "title": "2nd ODI",
+      "venue": "Port of Spain, Trinidad ",
+      "date": "Sun Jul 24 2022 1:30:10 PM",
+      "team1": "WI",
+      "team2": "IND"
+    },
+    {
+      "id": 3,
+      "title": "2nd ODI",
+      "venue": "Port of Spain, Trinidad ",
+      "date": "Wed Jul 27 2022 1:30:10 PM",
+      "team1": "WI",
+      "team2": "IND"
+    }
+  ]
+}
